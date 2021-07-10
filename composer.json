@@ -1,0 +1,26 @@
+{
+    "name": "rusmadisk/google-image-grabber",
+    "description": "Scrape google images",
+    "type": "library",
+    "require": {
+        "campo/random-user-agent": "^1.3",
+        "paquettg/php-html-parser": "^3.1",
+        "maciejczyzewski/bottomline": "^0.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mochammad Masbuchin",
+            "email": "buchin@dropsugar.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Rusmadisk\\GoogleImageGrabber\\": "src/"
+        }
+    },
+    "require-dev": {
+        "kahlan/kahlan": "dev-master"
+    }
+}
