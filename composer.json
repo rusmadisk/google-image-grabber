@@ -3,7 +3,6 @@
     "description": "Scrape google images",
     "type": "library",
     "require": {
-        "campo/random-user-agent": "^1.3",
         "paquettg/php-html-parser": "^3.1",
         "maciejczyzewski/bottomline": "^0.2"
     },
