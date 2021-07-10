@@ -3,7 +3,7 @@
     "description": "Scrape google images",
     "type": "library",
     "require": {
-        "paquettg/php-html-parser": "^3.1",
+        "paquettg/php-html-parser": "^2.1",
         "maciejczyzewski/bottomline": "^0.2"
     },
     "license": "MIT",
